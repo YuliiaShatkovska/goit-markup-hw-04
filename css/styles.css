@@ -614,6 +614,10 @@ img {
   transform: translate(0);
 }
 
+.projects-link:focus .projects-cover-text {
+  transform: translate(0);
+}
+
 /* .projects-cover-block {
   position: absolute;
 
